@@ -107,7 +107,7 @@ public class Main {
 			        }
             	break;
             default:
-                System.out.println("Bye!!");
+                System.out.println("Tam biet ");
                 flag = false;
                 break;
             }
